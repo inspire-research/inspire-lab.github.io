@@ -1,1 +1,1 @@
-Sitemap: https://inspire-research.github.io/inspire-lab.github.io/sitemap.xml
+Sitemap: https://inspire-research.github.io/sitemap.xml
