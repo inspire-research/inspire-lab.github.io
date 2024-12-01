@@ -1,47 +1,67 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Large Language Model Enhanced Retrieval
+  subtitle: Redefining Query Understanding in Retrieval Systems
+  image: images/llm_retrieval.webp
+  link: https://github.com/
+  description: Integrating large language models for improved query alignment and understanding, enhancing search relevance across diverse applications.
+  repo: inspire-lab/llm-retrieval
+  tags:
+    - AI
+    - retrieval
+    - innovation
+
+- title: Adaptive Smart Information Systems
+  subtitle: Personalized and Context-Aware Data Interpretation
+  image: images/adaptive_systems.webp
+  link: https://github.com/
+  description: Developing dynamic systems that interpret, organize, and present data aligned with user intent for personalized user experiences.
+  repo: inspire-lab/adaptive-systems
+  tags:
+    - AI
+    - smart systems
+    - personalization
+
+- title: Advanced Framework to Combat AI Misinformation
+  subtitle: Detecting and Mitigating AI-Generated False Content
+  image: images/ai_misinformation.webp
+  link: https://github.com/
+  description: Using meta-learning and novel social prompting to detect and mitigate AI-generated misinformation and hallucinations.
+  repo: inspire-lab/ai-misinformation-framework
+  tags:
+    - AI
+    - misinformation
+    - ethics
+
+- title: Unbiased Learning and Ranking
+  subtitle: Fair and Equitable Recommender Systems
+  image: images/unbiased_ranking.webp
+  link: https://github.com/
+  description: Exploring frameworks to eliminate biases in information retrieval and recommender systems for more equitable outcomes.
+  repo: inspire-lab/unbiased-ranking
+  tags:
+    - fairness
+    - ranking
+    - AI
+
+- title: Graph-Based Search Personalization
+  subtitle: Leveraging Graph Theory for Personalized Experiences
   group: featured
-  image: images/photo.jpg
+  image: images/graph_personalization.webp
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Applying graph theory to create personalized search experiences by modeling user preferences and query contexts.
+  repo: inspire-lab/graph-personalization
   tags:
-    - resource
+    - graphs
+    - search
+    - personalization
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: AI Forensics and Authorship Attribution
+  subtitle: Identifying AI-Generated Content for Security Applications
   group: featured
-  image: images/photo.jpg
+  image: images/ai_forensics.webp
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Investigating techniques to attribute AI-generated content, advancing digital security and public safety solutions.
+  repo: inspire-lab/ai-forensics
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - forensics
+    - AI
+    - security

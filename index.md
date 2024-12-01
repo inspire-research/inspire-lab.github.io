@@ -3,7 +3,7 @@
 
 # inspire-research's Website
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the Intelligent Systems for Predictive Information Retrieval and Data Modeling (INSPIRE) Lab at Wilfrid Laurier University, Canada. We specialize in advancing the fields of natural language processing (NLP), machine learning, and large language models. Our research aims to enhance the accuracy, efficiency, and relevance of information retrieval systems through innovative algorithms and data modeling techniques. From semantic search to bias mitigation in recommender systems, our lab is dedicated to solving real-world challenges with interdisciplinary collaboration. Join us in pioneering the future of intelligent, adaptive, and user-centric information systems.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Exploring innovative solutions in natural language processing, machine learning, and information retrieval to revolutionize user-centric and adaptive intelligent systems.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.webp"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Showcasing cutting-edge projects that drive advancements in AI, NLP, and intelligent systems to tackle real-world challenges.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.webp"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team of researchers driving innovation in AI, NLP, and intelligent systems.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.webp"
   link="team"
   title="Our Team"
   text=text

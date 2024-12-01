@@ -1,23 +1,45 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.3233/WEB-230036
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1109/ICDE60146.2024.00360
+- id: doi:10.1145/3616855.3635757
+- id: doi:10.1145/3589334.3645474
+- id: doi:10.48550/arXiv.2401.03177
+- id: doi:10.48550/arXiv.2409.10909
+- id: doi:10.1145/3539618.3591665
+- id: doi:10.1145/3624918.3625312
+- id: doi:10.48550/arXiv.2305.02759
+- id: doi:10.1145/3476106
+- id: doi:10.1007/978-3-031-00123-9_57
+- id: doi:10.1145/3503161.3548125
+- id: doi:10.1145/3477495.3532058
+- id: doi:10.1145/3477495.3531986
+- id: doi:10.1145/3488560.3498527
+- id: doi:10.1145/3488560.3498507
+- id: doi:10.48550/arXiv.2202.08523
+- id: doi:10.48550/arXiv.2203.16942
+- id: doi:10.48550/arXiv.2204.12200
+- id: doi:10.48550/arXiv.2207.06899
+- id: doi:10.48550/arXiv.2210.10718
+- id: doi:10.1609/aaai.v35i5.16534
+- id: doi:10.1145/3459637.3482277
+- id: doi:10.1109/ICDE51399.2021.00281
+- id: doi:10.1145/3437963.3441751
+- id: arXiv:2110.03996
+- id: arXiv:2112.02787
+- id: doi:10.1111/coin.12248
+- id: doi:10.1145/3357384.3358055
+- id: doi:10.1145/3357384.3358170
+- id: doi:10.1145/3292500.3330790
+- id: doi:10.1145/3308558.3313730
+- id: doi:10.1016/j.is.2018.02.002
+- id: doi:10.1145/3209978.3210147
+- id: doi:10.1145/2956234
+- id: doi:10.1145/2911451.2914748
+- id: doi:10.1145/2590988
+- id: doi:10.1145/2600428.2609527
+- id: doi:10.1109/BIBM.2012.6392623
+- id: doi:10.1145/2348283.2348507
+- id: doi:10.1145/2009916.2009941
+- id: doi:10.1109/BIBM.2009.51
+- id: doi:10.1145/1645953.1646148
+- id: doi:10.1109/CEC.2007.4424912

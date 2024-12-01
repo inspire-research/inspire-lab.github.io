@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses on advancing natural language processing (NLP), machine learning, and information retrieval through cutting-edge innovations. By integrating large language models, deep learning, and probabilistic methods, we aim to solve real-world challenges in semantic search, personalized recommendations, and unbiased ranking systems. Our work drives impactful solutions in diverse fields, including e-commerce, healthcare, and digital forensics, paving the way for adaptive, user-centric intelligent systems.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Hypergraph Contrastive Collaborative Filtering" style="rich" %}
 
 {% include section.html %}
 
