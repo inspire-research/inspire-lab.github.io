@@ -1,0 +1,785 @@
+Provider: Schloss Dagstuhl - Leibniz Center for Informatics
+Database: dblp computer science bibliography
+Content:text/plain; charset="utf-8"
+
+TY  - JOUR
+ID  - DBLP:journals/wias/HeZGED24
+AU  - He, Li
+AU  - Zhao, Jiashu
+AU  - Gu, Yulong
+AU  - Elbaz, Mitchell
+AU  - Ding, Zhuoye
+TI  - A bias study and an unbiased deep neural network for recommender systems.
+JO  - Web Intell.
+VL  - 22
+IS  - 1
+SP  - 15
+EP  - 29
+PY  - 2024//
+DO  - 10.3233/WEB-230036
+UR  - https://doi.org/10.3233/WEB-230036
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/icde/ChuHWYZZL24
+AU  - Chu, Xiaokai
+AU  - Hao, Changying
+AU  - Wang, Shuaiqiang
+AU  - Yin, Dawei
+AU  - Zhao, Jiashu
+AU  - Zou, Lixin
+AU  - Li, Chenliang
+TI  - LT<sup>2</sup>R: Learning to Online Learning to Rank for Web Search.
+BT  - 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, The Netherlands, May 13-16, 2024
+SP  - 4733
+EP  - 4746
+PY  - 2024//
+DO  - 10.1109/ICDE60146.2024.00360
+UR  - https://doi.org/10.1109/ICDE60146.2024.00360
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/wsdm/LiSZXCCTWY24
+AU  - Li, Qian
+AU  - Su, Lixin
+AU  - Zhao, Jiashu
+AU  - Xia, Long
+AU  - Cai, Hengyi
+AU  - Cheng, Suqi
+AU  - Tang, Hengzhu
+AU  - Wang, Junfeng
+AU  - Yin, Dawei
+TI  - Text-Video Retrieval via Multi-Modal Hypergraph Networks.
+BT  - Proceedings of the 17th ACM International Conference on Web Search and Data Mining, WSDM 2024, Merida, Mexico, March 4-8, 2024
+SP  - 369
+EP  - 377
+PY  - 2024//
+DO  - 10.1145/3616855.3635757
+UR  - https://doi.org/10.1145/3616855.3635757
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/www/MaoZZTCZWY24
+AU  - Mao, Haitao
+AU  - Zou, Lixin
+AU  - Zheng, Yujia
+AU  - Tang, Jiliang
+AU  - Chu, Xiaokai
+AU  - Zhao, Jiashu
+AU  - Wang, Qian
+AU  - Yin, Dawei
+TI  - Whole Page Unbiased Learning to Rank.
+BT  - Proceedings of the ACM on Web Conference 2024, WWW 2024, Singapore, May 13-17, 2024
+SP  - 1431
+EP  - 1440
+PY  - 2024//
+DO  - 10.1145/3589334.3645474
+UR  - https://doi.org/10.1145/3589334.3645474
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2401-03177
+AU  - Li, Qian
+AU  - Su, Lixin
+AU  - Zhao, Jiashu
+AU  - Xia, Long
+AU  - Cai, Hengyi
+AU  - Cheng, Suqi
+AU  - Tang, Hengzhu
+AU  - Wang, Junfeng
+AU  - Yin, Dawei
+TI  - Text-Video Retrieval via Variational Multi-Modal Hypergraph Networks.
+JO  - CoRR
+VL  - abs/2401.03177
+PY  - 2024//
+DO  - 10.48550/ARXIV.2401.03177
+UR  - https://doi.org/10.48550/arXiv.2401.03177
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2409-10909
+AU  - Seo, Wonduk
+AU  - Zhang, Haojie
+AU  - Zhang, Yueyang
+AU  - Zhang, Changhao
+AU  - Duan, Songyao
+AU  - Su, Lixin
+AU  - Shi, Daiting
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+TI  - GenCRF: Generative Clustering and Reformulation Framework for Enhanced Intent-Driven Information Retrieval.
+JO  - CoRR
+VL  - abs/2409.10909
+PY  - 2024//
+DO  - 10.48550/ARXIV.2409.10909
+UR  - https://doi.org/10.48550/arXiv.2409.10909
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/RenXZY023
+AU  - Ren, Xubin
+AU  - Xia, Lianghao
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+AU  - Huang, Chao
+TI  - Disentangled Contrastive Collaborative Filtering.
+BT  - Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27, 2023
+SP  - 1137
+EP  - 1146
+PY  - 2023//
+DO  - 10.1145/3539618.3591665
+UR  - https://doi.org/10.1145/3539618.3591665
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir-ap/ShaoCZXZY23
+AU  - Shao, Weiqi
+AU  - Chen, Xu
+AU  - Zhao, Jiashu
+AU  - Xia, Long
+AU  - Zhang, Jingsen
+AU  - Yin, Dawei
+TI  - Sequential Recommendation with User Evolving Preference Decomposition.
+BT  - Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2023, Beijing, China, November 26-28, 2023
+SP  - 253
+EP  - 263
+PY  - 2023//
+DO  - 10.1145/3624918.3625312
+UR  - https://doi.org/10.1145/3624918.3625312
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2305-02759
+AU  - Ren, Xubin
+AU  - Xia, Lianghao
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+AU  - Huang, Chao
+TI  - Disentangled Contrastive Collaborative Filtering.
+JO  - CoRR
+VL  - abs/2305.02759
+PY  - 2023//
+DO  - 10.48550/ARXIV.2305.02759
+UR  - https://doi.org/10.48550/arXiv.2305.02759
+ER  -
+
+TY  - JOUR
+ID  - DBLP:journals/tois/ZhaoHDCX22
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+AU  - Deng, Hongbo
+AU  - Chang, Yi
+AU  - Xia, Long
+TI  - Are Topics Interesting or Not? An LDA-based Topic-graph Probabilistic Model for Web Search Personalization.
+JO  - ACM Trans. Inf. Syst.
+VL  - 40
+IS  - 3
+SP  - 51:1
+EP  - 51:24
+PY  - 2022//
+DO  - 10.1145/3476106
+UR  - https://doi.org/10.1145/3476106
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/dasfaa/ChuZFYZZYB22
+AU  - Chu, Xiaokai
+AU  - Zhao, Jiashu
+AU  - Fan, Xinxin
+AU  - Yao, Di
+AU  - Zhu, Zhihua
+AU  - Zou, Lixin
+AU  - Yin, Dawei
+AU  - Bi, Jingping
+TI  - Contrastive Disentangled Graph Convolutional Network for Weakly-Supervised Classification.
+BT  - Database Systems for Advanced Applications - 27th International Conference, DASFAA 2022, Virtual Event, April 11-14, 2022, Proceedings, Part I
+SP  - 722
+EP  - 730
+PY  - 2022//
+DO  - 10.1007/978-3-031-00123-9_57
+UR  - https://doi.org/10.1007/978-3-031-00123-9_57
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/mm/ZhaoYLL0ZYCB22
+AU  - Zhao, Boming
+AU  - Yang, Bangbang
+AU  - Li, Zhenyang
+AU  - Li, Zuoyue
+AU  - Zhang, Guofeng
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+AU  - Cui, Zhaopeng
+AU  - Bao, Hujun
+TI  - Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation.
+BT  - MM '22: The 30th ACM International Conference on Multimedia, Lisboa, Portugal, October 10 - 14, 2022
+SP  - 1455
+EP  - 1464
+PY  - 2022//
+DO  - 10.1145/3503161.3548125
+UR  - https://doi.org/10.1145/3503161.3548125
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/XiaHXZYH22
+AU  - Xia, Lianghao
+AU  - Huang, Chao
+AU  - Xu, Yong
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+AU  - Huang, Jimmy X.
+TI  - Hypergraph Contrastive Collaborative Filtering.
+BT  - SIGIR '22: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022
+SP  - 70
+EP  - 79
+PY  - 2022//
+DO  - 10.1145/3477495.3532058
+UR  - https://doi.org/10.1145/3477495.3532058
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/ChuZZY22
+AU  - Chu, Xiaokai
+AU  - Zhao, Jiashu
+AU  - Zou, Lixin
+AU  - Yin, Dawei
+TI  - H-ERNIE: A Multi-Granularity Pre-Trained Language Model for Web Search.
+BT  - SIGIR '22: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022
+SP  - 1478
+EP  - 1489
+PY  - 2022//
+DO  - 10.1145/3477495.3531986
+UR  - https://doi.org/10.1145/3477495.3531986
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/wsdm/WeiHXXZY22
+AU  - Wei, Wei
+AU  - Huang, Chao
+AU  - Xia, Lianghao
+AU  - Xu, Yong
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+TI  - Contrastive Meta Learning with Behavior Multiplicity for Recommendation.
+BT  - WSDM '22: The Fifteenth ACM International Conference on Web Search and Data Mining, Virtual Event / Tempe, AZ, USA, February 21 - 25, 2022
+SP  - 1120
+EP  - 1128
+PY  - 2022//
+DO  - 10.1145/3488560.3498527
+UR  - https://doi.org/10.1145/3488560.3498527
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/wsdm/ZhangSZYLYL22
+AU  - Zhang, Li
+AU  - Shi, Lei
+AU  - Zhao, Jiashu
+AU  - Yang, Juan
+AU  - Lyu, Tianshu
+AU  - Yin, Dawei
+AU  - Lu, Haiping
+TI  - A GNN-based Multi-task Learning Framework for Personalized Video Search.
+BT  - WSDM '22: The Fifteenth ACM International Conference on Web Search and Data Mining, Virtual Event / Tempe, AZ, USA, February 21 - 25, 2022
+SP  - 1386
+EP  - 1394
+PY  - 2022//
+DO  - 10.1145/3488560.3498507
+UR  - https://doi.org/10.1145/3488560.3498507
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2202-08523
+AU  - Wei, Wei
+AU  - Huang, Chao
+AU  - Xia, Lianghao
+AU  - Xu, Yong
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+TI  - Contrastive Meta Learning with Behavior Multiplicity for Recommendation.
+JO  - CoRR
+VL  - abs/2202.08523
+PY  - 2022//
+UR  - https://arxiv.org/abs/2202.08523
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2203-16942
+AU  - Shao, Weiqi
+AU  - Chen, Xu
+AU  - Xia, Long
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+TI  - Sequential Recommendation with User Evolving Preference Decomposition.
+JO  - CoRR
+VL  - abs/2203.16942
+PY  - 2022//
+DO  - 10.48550/ARXIV.2203.16942
+UR  - https://doi.org/10.48550/arXiv.2203.16942
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2204-12200
+AU  - Xia, Lianghao
+AU  - Huang, Chao
+AU  - Xu, Yong
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+AU  - Huang, Jimmy Xiangji
+TI  - Hypergraph Contrastive Collaborative Filtering.
+JO  - CoRR
+VL  - abs/2204.12200
+PY  - 2022//
+DO  - 10.48550/ARXIV.2204.12200
+UR  - https://doi.org/10.48550/arXiv.2204.12200
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2207-06899
+AU  - Zhao, Boming
+AU  - Yang, Bangbang
+AU  - Li, Zhenyang
+AU  - Li, Zuoyue
+AU  - Zhang, Guofeng
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+AU  - Cui, Zhaopeng
+AU  - Bao, Hujun
+TI  - Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation.
+JO  - CoRR
+VL  - abs/2207.06899
+PY  - 2022//
+DO  - 10.48550/ARXIV.2207.06899
+UR  - https://doi.org/10.48550/arXiv.2207.06899
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2210-10718
+AU  - Mao, Haitao
+AU  - Zou, Lixin
+AU  - Zheng, Yujia
+AU  - Tang, Jiliang
+AU  - Chu, Xiaokai
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+TI  - Whole Page Unbiased Learning to Rank.
+JO  - CoRR
+VL  - abs/2210.10718
+PY  - 2022//
+DO  - 10.48550/ARXIV.2210.10718
+UR  - https://doi.org/10.48550/arXiv.2210.10718
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/aaai/HuangCXXDCBZH21
+AU  - Huang, Chao
+AU  - Chen, Jiahui
+AU  - Xia, Lianghao
+AU  - Xu, Yong
+AU  - Dai, Peng
+AU  - Chen, Yanqing
+AU  - Bo, Liefeng
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+TI  - Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-based Recommendation.
+BT  - Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021, Thirty-Third Conference on Innovative Applications of Artificial Intelligence, IAAI 2021, The Eleventh Symposium on Educational Advances in Artificial Intelligence, EAAI 2021, Virtual Event, February 2-9, 2021
+SP  - 4123
+EP  - 4130
+PY  - 2021//
+DO  - 10.1609/AAAI.V35I5.16534
+UR  - https://doi.org/10.1609/aaai.v35i5.16534
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/cikm/WangLXZL21
+AU  - Wang, Li
+AU  - Li, Peipei
+AU  - Xiong, Kai
+AU  - Zhao, Jiashu
+AU  - Lin, Rui
+TI  - Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism.
+BT  - CIKM '21: The 30th ACM International Conference on Information and Knowledge Management, Virtual Event, Queensland, Australia, November 1 - 5, 2021
+SP  - 1959
+EP  - 1968
+PY  - 2021//
+DO  - 10.1145/3459637.3482277
+UR  - https://doi.org/10.1145/3459637.3482277
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/icde/HuangZY21
+AU  - Huang, Chao
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+TI  - Purchase Intent Forecasting with Convolutional Hierarchical Transformer Networks.
+BT  - 37th IEEE International Conference on Data Engineering, ICDE 2021, Chania, Greece, April 19-22, 2021
+SP  - 2488
+EP  - 2498
+PY  - 2021//
+DO  - 10.1109/ICDE51399.2021.00281
+UR  - https://doi.org/10.1109/ICDE51399.2021.00281
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/wsdm/WuCZHY021
+AU  - Wu, Xinwei
+AU  - Chen, Hechang
+AU  - Zhao, Jiashu
+AU  - He, Li
+AU  - Yin, Dawei
+AU  - Chang, Yi
+TI  - Unbiased Learning to Rank in Feeds Recommendation.
+BT  - WSDM '21, The Fourteenth ACM International Conference on Web Search and Data Mining, Virtual Event, Israel, March 8-12, 2021
+SP  - 490
+EP  - 498
+PY  - 2021//
+DO  - 10.1145/3437963.3441751
+UR  - https://doi.org/10.1145/3437963.3441751
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2110-03996
+AU  - Huang, Chao
+AU  - Chen, Jiahui
+AU  - Xia, Lianghao
+AU  - Xu, Yong
+AU  - Dai, Peng
+AU  - Chen, Yanqing
+AU  - Bo, Liefeng
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+TI  - Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-based Recommendation.
+JO  - CoRR
+VL  - abs/2110.03996
+PY  - 2021//
+UR  - https://arxiv.org/abs/2110.03996
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2112-02787
+AU  - Shao, Weiqi
+AU  - Chen, Xu
+AU  - Zhao, Jiashu
+AU  - Xia, Long
+AU  - Yin, Dawei
+TI  - Learning Reinforced Dynamic Representations for Sequential Recommendation.
+JO  - CoRR
+VL  - abs/2112.02787
+PY  - 2021//
+UR  - https://arxiv.org/abs/2112.02787
+ER  -
+
+TY  - Informal or Other Publication
+ID  - DBLP:journals/corr/abs-2112-02812
+AU  - Shao, Weiqi
+AU  - Chen, Xu
+AU  - Zhao, Jiashu
+AU  - Xia, Long
+AU  - Yin, Dawei
+TI  - Sequential Recommendation with Adaptive Preference Disentanglement.
+JO  - CoRR
+VL  - abs/2112.02812
+PY  - 2021//
+UR  - https://arxiv.org/abs/2112.02812
+ER  -
+
+TY  - JOUR
+ID  - DBLP:journals/ci/JianHZYW20
+AU  - Jian, Fanghong
+AU  - Huang, Jimmy Xiangji
+AU  - Zhao, Jiashu
+AU  - Ying, Zhiwei
+AU  - Wang, Yuqi
+TI  - A topic-based term frequency normalization framework to enhance probabilistic information retrieval.
+JO  - Comput. Intell.
+VL  - 36
+IS  - 2
+SP  - 486
+EP  - 521
+PY  - 2020//
+DO  - 10.1111/COIN.12248
+UR  - https://doi.org/10.1111/coin.12248
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/trec/NiebergallZ20
+AU  - Niebergall, Max
+AU  - Zhao, Jiashu
+TI  - Wilfrid Laurier University at the NIST TREC 2020: Conversational Assistance Track.
+BT  - Proceedings of the Twenty-Ninth Text REtrieval Conference, TREC 2020, Virtual Event [Gaithersburg, Maryland, USA], November 16-20, 2020.
+PY  - 2020//
+UR  - https://trec.nist.gov/pubs/trec29/papers/WLU.C.pdf
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/cikm/ZhaoCY19
+AU  - Zhao, Jiashu
+AU  - Chen, Hongshen
+AU  - Yin, Dawei
+TI  - A Dynamic Product-aware Learning Model for E-commerce Query Intent Understanding.
+BT  - Proceedings of the 28th ACM International Conference on Information and Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
+SP  - 1843
+EP  - 1852
+PY  - 2019//
+DO  - 10.1145/3357384.3358055
+UR  - https://doi.org/10.1145/3357384.3358055
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/cikm/ChenZY19
+AU  - Chen, Hongshen
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+TI  - Fine-Grained Product Categorization in E-commerce.
+BT  - Proceedings of the 28th ACM International Conference on Information and Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
+SP  - 2349
+EP  - 2352
+PY  - 2019//
+DO  - 10.1145/3357384.3358170
+UR  - https://doi.org/10.1145/3357384.3358170
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/kdd/HuangWZZZYC19
+AU  - Huang, Chao
+AU  - Wu, Xian
+AU  - Zhang, Xuchao
+AU  - Zhang, Chuxu
+AU  - Zhao, Jiashu
+AU  - Yin, Dawei
+AU  - Chawla, Nitesh V.
+TI  - Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics.
+BT  - Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD 2019, Anchorage, AK, USA, August 4-8, 2019.
+SP  - 2613
+EP  - 2622
+PY  - 2019//
+DO  - 10.1145/3292500.3330790
+UR  - https://doi.org/10.1145/3292500.3330790
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/www/HuangZZWCY19
+AU  - Huang, Chao
+AU  - Zhang, Chuxu
+AU  - Zhao, Jiashu
+AU  - Wu, Xian
+AU  - Chawla, Nitesh V.
+AU  - Yin, Dawei
+TI  - MiST: A Multiview and Multimodal Spatial-Temporal Learning Framework for Citywide Abnormal Event Forecasting.
+BT  - The World Wide Web Conference, WWW 2019, San Francisco, CA, USA, May 13-17, 2019
+SP  - 717
+EP  - 728
+PY  - 2019//
+DO  - 10.1145/3308558.3313730
+UR  - https://doi.org/10.1145/3308558.3313730
+ER  -
+
+TY  - JOUR
+ID  - DBLP:journals/is/HuangHZ18
+AU  - Huang, Jimmy Xiangji
+AU  - He, Ben
+AU  - Zhao, Jiashu
+TI  - Mining authoritative and topical evidence from the blogosphere for improving opinion retrieval.
+JO  - Inf. Syst.
+VL  - 78
+SP  - 199
+EP  - 213
+PY  - 2018//
+DO  - 10.1016/J.IS.2018.02.002
+UR  - https://doi.org/10.1016/j.is.2018.02.002
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/JianHZH18
+AU  - Jian, Fanghong
+AU  - Huang, Jimmy Xiangji
+AU  - Zhao, Jiashu
+AU  - He, Tingting
+TI  - A New Term Frequency Normalization Model for Probabilistic Information Retrieval.
+BT  - The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, SIGIR 2018, Ann Arbor, MI, USA, July 08-12, 2018
+SP  - 1237
+EP  - 1240
+PY  - 2018//
+DO  - 10.1145/3209978.3210147
+UR  - https://doi.org/10.1145/3209978.3210147
+ER  -
+
+TY  - JOUR
+ID  - DBLP:journals/tois/MiaoHZ16
+AU  - Miao, Jun
+AU  - Huang, Jimmy Xiangji
+AU  - Zhao, Jiashu
+TI  - TopPRF: A Probabilistic Framework for Integrating Topic Space into Pseudo Relevance Feedback.
+JO  - ACM Trans. Inf. Syst.
+VL  - 34
+IS  - 4
+SP  - 22:1
+EP  - 22:36
+PY  - 2016//
+DO  - 10.1145/2956234
+UR  - https://doi.org/10.1145/2956234
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/JianHZHH16
+AU  - Jian, Fanghong
+AU  - Huang, Jimmy Xiangji
+AU  - Zhao, Jiashu
+AU  - He, Tingting
+AU  - Hu, Po
+TI  - A Simple Enhancement for Ad-hoc Information Retrieval via Topic Modelling.
+BT  - Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval, SIGIR 2016, Pisa, Italy, July 17-21, 2016
+SP  - 733
+EP  - 736
+PY  - 2016//
+DO  - 10.1145/2911451.2914748
+UR  - https://doi.org/10.1145/2911451.2914748
+ER  -
+
+TY  - JOUR
+ID  - DBLP:journals/tois/ZhaoHY14
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+AU  - Ye, Zheng
+TI  - Modeling Term Associations for Probabilistic Information Retrieval.
+JO  - ACM Trans. Inf. Syst.
+VL  - 32
+IS  - 2
+SP  - 7:1
+EP  - 7:47
+PY  - 2014//
+DO  - 10.1145/2590988
+UR  - https://doi.org/10.1145/2590988
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/ZhaoH14
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+TI  - An enhanced context-sensitive proximity model for probabilistic information retrieval.
+BT  - The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '14, Gold Coast , QLD, Australia - July 06 - 11, 2014
+SP  - 1131
+EP  - 1134
+PY  - 2014//
+DO  - 10.1145/2600428.2609527
+UR  - https://doi.org/10.1145/2600428.2609527
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/bibm/ZhaoHHKM12
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+AU  - Hu, Xiaohua
+AU  - Kurian, C. Joseph
+AU  - Melek, William
+TI  - A Bayesian-based prediction model for personalized medical health care.
+BT  - 2012 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2012, Philadelphia, PA, USA, October 4-7, 2012
+SP  - 1
+EP  - 4
+PY  - 2012//
+DO  - 10.1109/BIBM.2012.6392623
+UR  - https://doi.org/10.1109/BIBM.2012.6392623
+UR  - https://doi.ieeecomputersociety.org/10.1109/BIBM.2012.6392623
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/ZhaoHW12
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+AU  - Wu, Shicheng
+TI  - Rewarding term location information to enhance probabilistic information retrieval.
+BT  - The 35th International ACM SIGIR conference on research and development in Information Retrieval, SIGIR '12, Portland, OR, USA, August 12-16, 2012
+SP  - 1137
+EP  - 1138
+PY  - 2012//
+DO  - 10.1145/2348283.2348507
+UR  - https://doi.org/10.1145/2348283.2348507
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/sigir/ZhaoHH11
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy Xiangji
+AU  - He, Ben
+TI  - CRTER: using cross terms to enhance probabilistic information retrieval.
+BT  - Proceeding of the 34th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2011, Beijing, China, July 25-29, 2011
+SP  - 155
+EP  - 164
+PY  - 2011//
+DO  - 10.1145/2009916.2009941
+UR  - https://doi.org/10.1145/2009916.2009941
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/trec/LupuZHGFZFT11
+AU  - Lupu, Mihai
+AU  - Zhao, Jiashu
+AU  - Huang, Jimmy X.
+AU  - Gurulingappa, Harsha
+AU  - Fluck, Juliane
+AU  - Zimmermann, Marc
+AU  - Filippov, Igor V.
+AU  - Tait, John
+TI  - Overview of the TREC 2011 Chemical IR Track.
+BT  - Proceedings of The Twentieth Text REtrieval Conference, TREC 2011, Gaithersburg, Maryland, USA, November 15-18, 2011
+PY  - 2011//
+UR  - http://trec.nist.gov/pubs/trec20/papers/CHEM.OVERVIEW.pdf
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/bibm/RohianAZH09
+AU  - Rohian, Hashmat
+AU  - An, Aijun
+AU  - Zhao, Jiashu
+AU  - Huang, Xiangji
+TI  - Discovering Temporal Associations among Significant Changes in Gene Expression.
+BT  - 2009 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2009, Washington, DC, USA, November 1-4, 2009, Proceedings
+SP  - 419
+EP  - 423
+PY  - 2009//
+DO  - 10.1109/BIBM.2009.51
+UR  - https://doi.org/10.1109/BIBM.2009.51
+UR  - https://doi.ieeecomputersociety.org/10.1109/BIBM.2009.51
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/cikm/AnWZH09
+AU  - An, Aijun
+AU  - Wan, Qian
+AU  - Zhao, Jiashu
+AU  - Huang, Xiangji
+TI  - Diverging patterns: discovering significant frequency change dissimilarities in large databases.
+BT  - Proceedings of the 18th ACM Conference on Information and Knowledge Management, CIKM 2009, Hong Kong, China, November 2-6, 2009
+SP  - 1473
+EP  - 1476
+PY  - 2009//
+DO  - 10.1145/1645953.1646148
+UR  - https://doi.org/10.1145/1645953.1646148
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/trec/ZhaoHYYZ09
+AU  - Zhao, Jiashu
+AU  - Huang, Xiangji
+AU  - Ye, Zheng
+AU  - Zhu, Jianhan
+TI  - York University at TREC 2009: Chemical Track.
+BT  - Proceedings of The Eighteenth Text REtrieval Conference, TREC 2009, Gaithersburg, Maryland, USA, November 17-20, 2009
+PY  - 2009//
+UR  - http://trec.nist.gov/pubs/trec18/papers/yorku.CHEM.pdf
+ER  -
+
+TY  - CPAPER
+ID  - DBLP:conf/cec/GuZLX07
+AU  - Gu, Yu
+AU  - Zhao, Jiashu
+AU  - Liang, Dong
+AU  - Xu, Zongben
+TI  - Immunity diversity based multi-agent intrusion detection.
+BT  - Proceedings of the IEEE Congress on Evolutionary Computation, CEC 2007, 25-28 September 2007, Singapore
+SP  - 3404
+EP  - 3409
+PY  - 2007//
+DO  - 10.1109/CEC.2007.4424912
+UR  - https://doi.org/10.1109/CEC.2007.4424912
+ER  -
+
